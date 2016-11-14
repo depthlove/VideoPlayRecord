@@ -26,4 +26,6 @@
 }
 
 
+- (IBAction)playVideo:(id)sender {
+}
 @end
